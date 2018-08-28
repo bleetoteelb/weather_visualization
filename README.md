@@ -7,13 +7,13 @@ weather_visualization with matlab
 
 # DESCRIPTION
 
-![slide1](/slide1.jpg)
-![slide2](/slide2.jpg)
-![slide3](/slide3.jpg)
-![slide4](/slide4.jpg)
-![slide5](/slide5.jpg)
-![slide6](/slide6.jpg)
-![slide7](/slide7.jpg)
-![slide8](/slide8.jpg)
-![slide9](/slide9.jpg)
-![slide10](/slide10.jpg)
+![slide1](/slide1.JPG)
+![slide2](/slide2.JPG)
+![slide3](/slide3.JPG)
+![slide4](/slide4.JPG)
+![slide5](/slide5.JPG)
+![slide6](/slide6.JPG)
+![slide7](/slide7.JPG)
+![slide8](/slide8.JPG)
+![slide9](/slide9.JPG)
+![slide10](/slide10.JPG)
