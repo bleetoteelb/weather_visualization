@@ -1,9 +1,15 @@
-# weather_visualization
-weather_visualization with matlab
+# WEATHER VISUALIZATION
+
+Weather Visualization with matlab.
+Final project in "Computational MEthods for BME" class in UNIST.
+
+
+It include data parsing code using python.
 
 # DEMO VIDEO
 
-[DEMO](https://youtu.be/ycQEEL11U1E)
+[DEMO VIDEO](https://youtu.be/ycQEEL11U1E)
+Uploaded in YOUTUBE
 
 # DESCRIPTION
 
